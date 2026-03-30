@@ -5,7 +5,7 @@ This project analyzes restaurant data to uncover insights related to cuisines, c
 The analysis is performed using SQL (MySQL) for data processing and Power BI for interactive visualization.
 
 🎯 Objectives
-Identify top cuisines and their popularity
+Identify top cuisines and their popularity<br>
 Analyze restaurant distribution across cities
 Study pricing trends
 Evaluate online delivery impact
