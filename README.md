@@ -25,8 +25,8 @@ Checked duplicate records using restaurant id <br>
 Identified missing latitude & longitude values <br>
 
 Fixed missing geo-coordinates using: <br>
-   Locality-level averages<br>
-   City-level fallback <br>
+    🔹Locality-level averages<br>
+    🔹City-level fallback <br>
 Replaced missing cuisines with "Not Specified" <br>
 
 Split multiple cuisines using JSON_TABLE <br>
@@ -128,42 +128,42 @@ Restaurants with delivery have higher ratings (~3.2 vs 2.1) <br>
 
 Popular chains:<br>
 
-Cafe Coffee Day
-Domino’s Pizza
-Subway
-McDonald’s
-📍 Geographic Insights
-High restaurant clustering in urban areas
-Map visualization highlights demand-driven locations
-💡 Business Recommendations
-Expand online delivery services
-Focus on high-demand cuisines
-Target metro cities for growth
-Maintain affordable pricing strategies
-Improve customer experience to increase ratings
-🚀 Conclusion
+Cafe Coffee Day <br>
+Domino’s Pizza <br>
+Subway <br>
+McDonald’s <br>
+📍 Geographic Insights <br>
+High restaurant clustering in urban areas <br>
+Map visualization highlights demand-driven locations <br>
+💡 Business Recommendations <br>
+Expand online delivery services <br>
+Focus on high-demand cuisines <br>
+Target metro cities for growth <br>
+Maintain affordable pricing strategies <br>
+Improve customer experience to increase ratings <br>
+🚀 Conclusion <br>
 
-This project demonstrates how raw restaurant data can be transformed into meaningful insights using SQL and Power BI.
+This project demonstrates how raw restaurant data can be transformed into meaningful insights using SQL and Power BI. <br>
 
-👉 Key factors influencing success:
+👉 Key factors influencing success: <br>
 
-Cuisine preference
-Pricing strategy
-Location
-Online delivery availability
+Cuisine preference <br>
+Pricing strategy <br>
+Location<br>
+Online delivery availability <br>
 
-Businesses can use these insights to make data-driven decisions and improve performance.
+Businesses can use these insights to make data-driven decisions and improve performance. <br>
 
-📂 Project Structure
-├── Dataset (CSV)
-├── SQL Scripts
-├── Power BI Dashboard (.pbix)
-├── Dashboard Image
-└── README.md
-🙋‍♀️ Author
+📂 Project Structure <br>
+├── Dataset (CSV) <br>
+├── SQL Scripts <br>
+├── Power BI Dashboard (.pbix) <br>
+├── Dashboard Image <br>
+└── README.md <br>
+🙋‍♀️ Author <br>
 
-Pooja Parashar
+Pooja Parashar <br>
 
-📧 pooja.insightsnine@gmail.com
-🔗 https://www.linkedin.com/in/pooja-parashar-889b0837b
+📧 pooja.insightsnine@gmail.com <br>
+🔗 https://www.linkedin.com/in/pooja-parashar-889b0837b <br>
 💻 https://github.com/poojainsightsnine
